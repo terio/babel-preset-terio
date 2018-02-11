@@ -10,7 +10,6 @@
     "@babel/core": "^7.0.0-beta.39",
     "@babel/plugin-syntax-jsx": "^7.0.0-beta.39",
     "@babel/plugin-transform-react-display-name": "^7.0.0-beta.39",
-    "@babel/plugin-transform-react-jsx": "^7.0.0-beta.39",
-    "@babel/preset-env": "^7.0.0-beta.39"
+    "@babel/plugin-transform-react-jsx": "^7.0.0-beta.39"
   }
 }
