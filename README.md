@@ -1,1 +1,1 @@
-# babel-preset-loki
+# babel-preset-terio

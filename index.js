@@ -5,7 +5,7 @@ module.exports = function(api, opts = {}) {
             [
                 require('@babel/plugin-transform-react-jsx'),
                 {
-                    pragma: opts.pragma || 'loki.createVirtualNode'
+                    pragma: opts.pragma || 'terio.createVirtualNode'
                 }
             ]
         ]

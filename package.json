@@ -1,8 +1,8 @@
 {
-  "name": "babel-preset-loki",
+  "name": "babel-preset-terio",
   "version": "0.1.0",
   "main": "index.js",
-  "repository": "git@github.com:subbu963/babel-preset-loki.git",
+  "repository": "git@github.com:subbu963/babel-preset-terio.git",
   "author": "aditya subramanyam <subramanyam963@gmail.com>",
   "license": "MIT",
   "devDependencies": {
