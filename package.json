@@ -5,10 +5,9 @@
   "repository": "git@github.com:subbu963/babel-preset-terio.git",
   "author": "aditya subramanyam <subramanyam963@gmail.com>",
   "license": "MIT",
-  "devDependencies": {
-    "@babel/cli": "^7.0.0-beta.39",
-    "@babel/core": "^7.0.0-beta.39",
-    "@babel/plugin-syntax-jsx": "^7.0.0-beta.39",
-    "@babel/plugin-transform-react-jsx": "^7.0.0-beta.39"
+  "devDependencies": {},
+  "dependencies": {
+    "@babel/plugin-syntax-jsx": "^7.0.0-beta.46",
+    "@babel/plugin-transform-react-jsx": "^7.0.0-beta.46"
   }
 }
